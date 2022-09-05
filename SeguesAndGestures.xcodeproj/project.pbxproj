@@ -16,6 +16,7 @@
 		3433D10F28C09478002D8495 /* SeguesAndGesturesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3433D10E28C09478002D8495 /* SeguesAndGesturesTests.swift */; };
 		3433D11928C09478002D8495 /* SeguesAndGesturesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3433D11828C09478002D8495 /* SeguesAndGesturesUITests.swift */; };
 		3433D11B28C09478002D8495 /* SeguesAndGesturesUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3433D11A28C09478002D8495 /* SeguesAndGesturesUITestsLaunchTests.swift */; };
+		3433D12828C0A4A3002D8495 /* ScreenTwoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3433D12728C0A4A3002D8495 /* ScreenTwoViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		3433D11428C09478002D8495 /* SeguesAndGesturesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SeguesAndGesturesUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3433D11828C09478002D8495 /* SeguesAndGesturesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SeguesAndGesturesUITests.swift; sourceTree = "<group>"; };
 		3433D11A28C09478002D8495 /* SeguesAndGesturesUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SeguesAndGesturesUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		3433D12728C0A4A3002D8495 /* ScreenTwoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScreenTwoViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				3433D10028C09478002D8495 /* Assets.xcassets */,
 				3433D10228C09478002D8495 /* LaunchScreen.storyboard */,
 				3433D10528C09478002D8495 /* Info.plist */,
+				3433D12728C0A4A3002D8495 /* ScreenTwoViewController.swift */,
 			);
 			path = SeguesAndGestures;
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3433D0FC28C09475002D8495 /* ViewController.swift in Sources */,
+				3433D12828C0A4A3002D8495 /* ScreenTwoViewController.swift in Sources */,
 				3433D0F828C09475002D8495 /* AppDelegate.swift in Sources */,
 				3433D0FA28C09475002D8495 /* SceneDelegate.swift in Sources */,
 			);
